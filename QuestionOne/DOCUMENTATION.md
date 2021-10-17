@@ -4,10 +4,11 @@ This bash script calculates a similarity percentage between two text files.
 
 ## Usage
 
-To check two files named ``One.txt`` and ``Two.txt``:
+To check two files named ``SampleA.txt`` and ``SampleB.txt``:
 
 ```
-./QuestionOne.sh One.txt Two.txt
+$ ./QuestionOne.sh SampleA.txt SampleB.txt
+The similarity between the files is 73.07%.
 ```
 
 ## Theory of Operation
