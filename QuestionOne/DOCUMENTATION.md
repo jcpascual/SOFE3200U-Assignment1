@@ -1,6 +1,6 @@
 # Question One
 
-This script calculates a similarity percentage between two text files.
+This bash script calculates a similarity percentage between two text files.
 
 ## Usage
 
